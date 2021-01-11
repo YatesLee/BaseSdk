@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BaseSdk_Tests' do
+  pod 'BaseSdk', :path => '../'
+  
+  
+end

@@ -1,0 +1,22 @@
+{
+  "name": "BaseSdk",
+  "version": "0.1.0",
+  "summary": "A short description of BaseSdk.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Howard/BaseSdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Howard": "344185723@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Howard/BaseSdk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BaseSdk/Classes/**/*"
+}

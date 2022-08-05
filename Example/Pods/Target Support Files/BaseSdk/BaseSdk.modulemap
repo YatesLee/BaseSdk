@@ -1,0 +1,6 @@
+framework module BaseSdk {
+  umbrella header "BaseSdk-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - BaseSdk (0.1.0)
+
+DEPENDENCIES:
+  - BaseSdk (from `../`)
+
+EXTERNAL SOURCES:
+  BaseSdk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BaseSdk: 9b1a785fd7ee0b4f9e44c9b89de28d75fafbaee2
+
+PODFILE CHECKSUM: 37cdca37248124b680e4186de02ae7e0ad59c88f
+
+COCOAPODS: 1.9.1
